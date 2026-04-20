@@ -1,0 +1,152 @@
+[
+  {
+    "id": "cat_001",
+    "name": "Haircut & Styling",
+    "slug": "haircut-styling",
+    "icon": "Scissors",
+    "description": "Professional haircuts, styling and grooming",
+    "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=400&q=80",
+    "serviceCount": 1240,
+    "color": "#A855F7"
+  },
+  {
+    "id": "cat_002",
+    "name": "Hair Color",
+    "slug": "hair-color",
+    "icon": "Paintbrush",
+    "description": "Global color, highlights, balayage, and creative coloring",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400&q=80",
+    "serviceCount": 890,
+    "color": "#E11D48"
+  },
+  {
+    "id": "cat_003",
+    "name": "Hair Treatment",
+    "slug": "hair-treatment",
+    "icon": "Sparkles",
+    "description": "Keratin, smoothening, and deep conditioning",
+    "image": "https://images.unsplash.com/photo-1510214690740-302a281ab791?w=400&q=80",
+    "serviceCount": 620,
+    "color": "#3B82F6"
+  },
+  {
+    "id": "cat_004",
+    "name": "Facial & Cleanup",
+    "slug": "facial-cleanup",
+    "icon": "Smile",
+    "description": "Advanced skin care, bleach, and facials",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=400&q=80",
+    "serviceCount": 980,
+    "color": "#F97316"
+  },
+  {
+    "id": "cat_005",
+    "name": "Waxing",
+    "slug": "waxing",
+    "icon": "Wind",
+    "description": "Full body waxing and hair removal",
+    "image": "https://images.unsplash.com/photo-1552693673-1bf958298935?w=400&q=80",
+    "serviceCount": 730,
+    "color": "#10B981"
+  },
+  {
+    "id": "cat_006",
+    "name": "Threading",
+    "slug": "threading",
+    "icon": "Eye",
+    "description": "Eyebrow, upper lip and face threading",
+    "image": "https://images.unsplash.com/photo-1620021305459-1bc43f1146f3?w=400&q=80",
+    "serviceCount": 960,
+    "color": "#D946EF"
+  },
+  {
+    "id": "cat_007",
+    "name": "Manicure & Pedicure",
+    "slug": "manicure-pedicure",
+    "icon": "Hand",
+    "description": "Nail care, gel polish and art",
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=400&q=80",
+    "serviceCount": 670,
+    "color": "#6366F1"
+  },
+  {
+    "id": "cat_008",
+    "name": "Massage",
+    "slug": "massage",
+    "icon": "Heart",
+    "description": "Head, shoulder and body massage",
+    "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=400&q=80",
+    "serviceCount": 380,
+    "color": "#EF4444"
+  },
+  {
+    "id": "cat_009",
+    "name": "Spa & Wellness",
+    "slug": "spa-wellness",
+    "icon": "Leaf",
+    "description": "Relaxing therapies and wellness treatments",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=400&q=80",
+    "serviceCount": 450,
+    "color": "#0EA5E9"
+  },
+  {
+    "id": "cat_010",
+    "name": "Bridal Packages",
+    "slug": "bridal-packages",
+    "icon": "Crown",
+    "description": "Pre-bridal preparation and wedding day services",
+    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=400&q=80",
+    "serviceCount": 280,
+    "color": "#F59E0B"
+  },
+  {
+    "id": "cat_011",
+    "name": "Makeup",
+    "slug": "makeup",
+    "icon": "Star",
+    "description": "Party, occasion and professional makeup",
+    "image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=400&q=80",
+    "serviceCount": 520,
+    "color": "#A855F7"
+  },
+  {
+    "id": "cat_012",
+    "name": "Mehendi",
+    "slug": "mehendi",
+    "icon": "Flower2",
+    "description": "Intricate bridal and occasion mehendi designs",
+    "image": "https://images.unsplash.com/photo-1628148648938-232cb90b07ac?w=400&q=80",
+    "serviceCount": 340,
+    "color": "#059669"
+  },
+  {
+    "id": "cat_013",
+    "name": "Beard & Grooming",
+    "slug": "beard-grooming",
+    "icon": "User",
+    "description": "Expert beard trims and grooming",
+    "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=400&q=80",
+    "serviceCount": 560,
+    "color": "#2563EB"
+  },
+  {
+    "id": "cat_014",
+    "name": "Body Care",
+    "slug": "body-care",
+    "icon": "Zap",
+    "description": "Body polish, wrap and scrubs",
+    "image": "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=400&q=80",
+    "serviceCount": 420,
+    "color": "#EC4899"
+  },
+  {
+    "id": "cat_015",
+    "name": "Eyelash & Brow",
+    "slug": "eyelash-brow",
+    "icon": "ScanFace",
+    "description": "Extensions, tinting and lamination",
+    "image": "https://images.unsplash.com/photo-1596704017254-9b121068fb29?w=400&q=80",
+    "serviceCount": 310,
+    "color": "#84CC16"
+  }
+]

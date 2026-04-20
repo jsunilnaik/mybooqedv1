@@ -1,0 +1,165 @@
+[
+  {
+    "id": "bkg_001",
+    "userId": "usr_001",
+    "salonId": "sal_001",
+    "salonName": "Looks Salon",
+    "services": [
+      { "serviceId": "svc_001", "serviceName": "Men's Haircut", "staffId": "stf_001", "staffName": "Raju Kumar", "duration": 30, "price": 150 }
+    ],
+    "date": "2025-07-20",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "totalAmount": 150,
+    "totalDuration": 30,
+    "status": "confirmed",
+    "createdAt": "2025-07-15T08:00:00Z"
+  },
+  {
+    "id": "bkg_002",
+    "userId": "usr_001",
+    "salonId": "sal_001",
+    "salonName": "Looks Salon",
+    "services": [
+      { "serviceId": "svc_001", "serviceName": "Men's Haircut", "staffId": "stf_001", "staffName": "Raju Kumar", "duration": 30, "price": 150 },
+      { "serviceId": "svc_005", "serviceName": "Beard Trim & Shape", "staffId": "stf_001", "staffName": "Raju Kumar", "duration": 20, "price": 120 }
+    ],
+    "date": "2025-06-15",
+    "startTime": "11:00",
+    "endTime": "11:50",
+    "totalAmount": 270,
+    "totalDuration": 50,
+    "status": "completed",
+    "createdAt": "2025-06-10T10:00:00Z"
+  },
+  {
+    "id": "bkg_003",
+    "userId": "usr_001",
+    "salonId": "sal_002",
+    "salonName": "Naturals Salon",
+    "services": [
+      { "serviceId": "svc_011", "serviceName": "Highlights & Balayage", "staffId": "stf_004", "staffName": "Anitha Sharma", "duration": 120, "price": 1500 }
+    ],
+    "date": "2025-05-20",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "totalAmount": 1500,
+    "totalDuration": 120,
+    "status": "completed",
+    "createdAt": "2025-05-15T09:00:00Z"
+  },
+  {
+    "id": "bkg_004",
+    "userId": "usr_001",
+    "salonId": "sal_003",
+    "salonName": "Star Cuts Barbershop",
+    "services": [
+      { "serviceId": "svc_016", "serviceName": "Royal Shave", "staffId": "stf_007", "staffName": "Venkatesh G", "duration": 30, "price": 150 }
+    ],
+    "date": "2025-07-25",
+    "startTime": "09:30",
+    "endTime": "10:00",
+    "totalAmount": 150,
+    "totalDuration": 30,
+    "status": "confirmed",
+    "createdAt": "2025-07-18T11:00:00Z"
+  },
+  {
+    "id": "bkg_005",
+    "userId": "usr_001",
+    "salonId": "sal_004",
+    "salonName": "Glamour Studio",
+    "services": [
+      { "serviceId": "svc_023", "serviceName": "D-Tan Facial", "staffId": "stf_009", "staffName": "Sowmya Patil", "duration": 45, "price": 450 }
+    ],
+    "date": "2025-04-10",
+    "startTime": "14:00",
+    "endTime": "14:45",
+    "totalAmount": 450,
+    "totalDuration": 45,
+    "status": "completed",
+    "createdAt": "2025-04-05T14:00:00Z"
+  },
+  {
+    "id": "bkg_006",
+    "userId": "usr_001",
+    "salonId": "sal_005",
+    "salonName": "Green Trends",
+    "services": [
+      { "serviceId": "svc_027", "serviceName": "Men's Haircut", "staffId": "stf_012", "staffName": "Arun Verma", "duration": 30, "price": 220 },
+      { "serviceId": "svc_032", "serviceName": "Beard Trim", "staffId": "stf_012", "staffName": "Arun Verma", "duration": 15, "price": 100 }
+    ],
+    "date": "2025-07-10",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "totalAmount": 320,
+    "totalDuration": 45,
+    "status": "cancelled",
+    "createdAt": "2025-07-05T09:00:00Z"
+  },
+  {
+    "id": "bkg_007",
+    "userId": "usr_001",
+    "salonId": "sal_006",
+    "salonName": "Serenity Spa & Beauty",
+    "services": [
+      { "serviceId": "svc_033", "serviceName": "Diamond Facial", "staffId": "stf_014", "staffName": "Saritha Menon", "duration": 60, "price": 900 }
+    ],
+    "date": "2025-07-28",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "totalAmount": 900,
+    "totalDuration": 60,
+    "status": "confirmed",
+    "createdAt": "2025-07-19T10:00:00Z"
+  },
+  {
+    "id": "bkg_008",
+    "userId": "usr_001",
+    "salonId": "sal_007",
+    "salonName": "Royal Men's Salon",
+    "services": [
+      { "serviceId": "svc_038", "serviceName": "Fade Haircut", "staffId": "stf_017", "staffName": "Kiran Kumar", "duration": 35, "price": 250 },
+      { "serviceId": "svc_039", "serviceName": "Full Beard Service", "staffId": "stf_017", "staffName": "Kiran Kumar", "duration": 30, "price": 180 }
+    ],
+    "date": "2025-03-22",
+    "startTime": "09:00",
+    "endTime": "10:05",
+    "totalAmount": 430,
+    "totalDuration": 65,
+    "status": "completed",
+    "createdAt": "2025-03-18T08:00:00Z"
+  },
+  {
+    "id": "bkg_009",
+    "userId": "usr_001",
+    "salonId": "sal_010",
+    "salonName": "Tresses Hair & Beauty",
+    "services": [
+      { "serviceId": "svc_054", "serviceName": "Balayage", "staffId": "stf_023", "staffName": "Smitha Joshi", "duration": 150, "price": 2500 }
+    ],
+    "date": "2025-02-14",
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "totalAmount": 2500,
+    "totalDuration": 150,
+    "status": "completed",
+    "createdAt": "2025-02-10T09:00:00Z"
+  },
+  {
+    "id": "bkg_010",
+    "userId": "usr_001",
+    "salonId": "sal_015",
+    "salonName": "Tranquil Spa",
+    "services": [
+      { "serviceId": "svc_074", "serviceName": "Thai Massage", "staffId": "stf_031", "staffName": "Chandrika B", "duration": 90, "price": 1500 }
+    ],
+    "date": "2025-07-30",
+    "startTime": "15:00",
+    "endTime": "16:30",
+    "totalAmount": 1500,
+    "totalDuration": 90,
+    "status": "confirmed",
+    "createdAt": "2025-07-19T14:00:00Z"
+  }
+]

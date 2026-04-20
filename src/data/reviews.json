@@ -1,0 +1,70 @@
+[
+  { "id": "rev_001", "salonId": "sal_001", "userId": "usr_001", "userName": "Ramesh Kumar", "rating": 5, "comment": "Best salon in the area! Raju sir is an absolute expert. My haircut was perfect and the head massage was so relaxing. Will definitely come back.", "createdAt": "2025-07-01T10:30:00Z" },
+  { "id": "rev_002", "salonId": "sal_001", "userId": "usr_002", "userName": "Priya Sharma", "rating": 4, "comment": "Good service and clean ambiance. The facial was really refreshing. Slightly long waiting time but worth it.", "createdAt": "2025-06-25T14:00:00Z" },
+  { "id": "rev_003", "salonId": "sal_001", "userId": "usr_003", "userName": "Suresh Reddy", "rating": 5, "comment": "Excellent beard trim and styling. The staff is very professional and friendly. Great value for money.", "createdAt": "2025-06-20T11:00:00Z" },
+  { "id": "rev_004", "salonId": "sal_001", "userId": "usr_004", "userName": "Anitha Gowda", "rating": 3, "comment": "Average experience. The haircut was decent but the waiting area could be improved. Will try again.", "createdAt": "2025-06-15T15:30:00Z" },
+  { "id": "rev_005", "salonId": "sal_001", "userId": "usr_005", "userName": "Vikram Patil", "rating": 5, "comment": "Amazing haircut! Got the exact style I wanted. The staff listens carefully and delivers perfectly. Highly recommend!", "createdAt": "2025-06-10T09:00:00Z" },
+
+  { "id": "rev_006", "salonId": "sal_002", "userId": "usr_001", "userName": "Meena Rani", "rating": 5, "comment": "Anitha madam is a genius with hair color! My balayage looks so natural and beautiful. The salon ambiance is very premium.", "createdAt": "2025-07-05T13:00:00Z" },
+  { "id": "rev_007", "salonId": "sal_002", "userId": "usr_002", "userName": "Kavitha Nair", "rating": 5, "comment": "The gold facial was absolutely luxurious. My skin is glowing! Very hygienic and professional setup.", "createdAt": "2025-06-28T16:00:00Z" },
+  { "id": "rev_008", "salonId": "sal_002", "userId": "usr_003", "userName": "Deepa Shetty", "rating": 4, "comment": "Great experience overall. The manicure and pedicure were done very neatly. Prices are a bit high but service quality justifies it.", "createdAt": "2025-06-22T12:00:00Z" },
+  { "id": "rev_009", "salonId": "sal_002", "userId": "usr_004", "userName": "Sunitha Rao", "rating": 5, "comment": "Party makeup by Kavitha madam was stunning! Got so many compliments. Will definitely book again for my sister's engagement.", "createdAt": "2025-06-18T11:30:00Z" },
+  { "id": "rev_010", "salonId": "sal_002", "userId": "usr_005", "userName": "Rohini Joshi", "rating": 4, "comment": "Haircut turned out really well. The stylist understood my hair texture and gave a perfect cut. Good experience.", "createdAt": "2025-06-12T14:30:00Z" },
+
+  { "id": "rev_011", "salonId": "sal_003", "userId": "usr_001", "userName": "Karthik Naidu", "rating": 5, "comment": "Venkatesh sir is the best barber I have visited. His shaving technique is traditional and flawless. The hot towel treatment is divine!", "createdAt": "2025-07-03T10:00:00Z" },
+  { "id": "rev_012", "salonId": "sal_003", "userId": "usr_002", "userName": "Anil Kumar", "rating": 5, "comment": "The royal shave experience here is unmatched. Feels like a premium barbershop experience at a very reasonable price.", "createdAt": "2025-06-27T09:30:00Z" },
+  { "id": "rev_013", "salonId": "sal_003", "userId": "usr_003", "userName": "Satish Gowda", "rating": 4, "comment": "Very good barber shop. Clean, professional, and affordable. The beard design took my look to the next level.", "createdAt": "2025-06-20T16:00:00Z" },
+  { "id": "rev_014", "salonId": "sal_003", "userId": "usr_004", "userName": "Naveen Reddy", "rating": 5, "comment": "Best place for men's grooming here. Regular customer for 3 years. Never disappointed.", "createdAt": "2025-06-14T11:00:00Z" },
+
+  { "id": "rev_015", "salonId": "sal_004", "userId": "usr_001", "userName": "Swapna Lakshmi", "rating": 5, "comment": "My bridal makeup was absolutely breathtaking. Sowmya madam has an incredible eye for detail. Got compliments from all guests!", "createdAt": "2025-07-02T08:00:00Z" },
+  { "id": "rev_016", "salonId": "sal_004", "userId": "usr_002", "userName": "Preethi Rao", "rating": 5, "comment": "The ombre coloring is gorgeous! Lakshmi stylish really understood my vision. Will come back for keratin next month.", "createdAt": "2025-06-26T15:00:00Z" },
+  { "id": "rev_017", "salonId": "sal_004", "userId": "usr_003", "userName": "Yamuna Devi", "rating": 4, "comment": "Full body massage was very relaxing. Clean environment and professional staff. The gel nail extension looks amazing.", "createdAt": "2025-06-19T14:00:00Z" },
+  { "id": "rev_018", "salonId": "sal_004", "userId": "usr_005", "userName": "Bhavana Singh", "rating": 5, "comment": "Best women's salon here by far. Every service is top quality. The D-tan facial really cleared my skin.", "createdAt": "2025-06-13T10:30:00Z" },
+
+  { "id": "rev_019", "salonId": "sal_005", "userId": "usr_001", "userName": "Rajendra Patil", "rating": 4, "comment": "Good unisex salon. Comfortable for the whole family. Kids haircut was done patiently and the little one didn't cry at all!", "createdAt": "2025-07-04T11:30:00Z" },
+  { "id": "rev_020", "salonId": "sal_005", "userId": "usr_002", "userName": "Latha Kumari", "rating": 4, "comment": "Nice clean-up facial. Good results. The color service was also done well. Reasonable prices.", "createdAt": "2025-06-29T16:30:00Z" },
+  { "id": "rev_021", "salonId": "sal_005", "userId": "usr_003", "userName": "Mohan Kumar", "rating": 3, "comment": "Average experience. Haircut was okay but the waiting time was too long. Staff was polite though.", "createdAt": "2025-06-23T13:00:00Z" },
+
+  { "id": "rev_022", "salonId": "sal_006", "userId": "usr_001", "userName": "Shalini Menon", "rating": 5, "comment": "The diamond facial here is life-changing! Saritha madam really knows her craft. My skin has never looked better. Premium experience at good prices.", "createdAt": "2025-07-06T09:00:00Z" },
+  { "id": "rev_023", "salonId": "sal_006", "userId": "usr_002", "userName": "Priya Iyer", "rating": 5, "comment": "Engagement makeup by Pooja was absolutely perfect. She matched my outfit colors so well. Got so many compliments!", "createdAt": "2025-06-30T17:00:00Z" },
+  { "id": "rev_024", "salonId": "sal_006", "userId": "usr_004", "userName": "Rekha Nair", "rating": 5, "comment": "Aromatherapy massage was the most relaxing experience of my life. The essential oils and technique are perfect. Booking again next week!", "createdAt": "2025-06-24T15:00:00Z" },
+  { "id": "rev_025", "salonId": "sal_006", "userId": "usr_005", "userName": "Hema Sharma", "rating": 4, "comment": "Nail art came out beautifully. The nail artist is very skilled. The designs are unique and long-lasting.", "createdAt": "2025-06-18T12:00:00Z" },
+
+  { "id": "rev_026", "salonId": "sal_007", "userId": "usr_001", "userName": "Mithun Kumar", "rating": 5, "comment": "Kiran's fade haircut is absolutely on point. Looks straight out of a magazine. Best men's salon in Station Road area!", "createdAt": "2025-07-05T11:00:00Z" },
+  { "id": "rev_027", "salonId": "sal_007", "userId": "usr_002", "userName": "Arjun Reddy", "rating": 5, "comment": "Perfect beard service! The full beard package left my beard looking and feeling amazing. Great ambiance too.", "createdAt": "2025-06-28T10:00:00Z" },
+  { "id": "rev_028", "salonId": "sal_007", "userId": "usr_003", "userName": "Siddharth Rao", "rating": 4, "comment": "Really good haircut. The stylist suggested a new style that suited my face shape perfectly. Happy customer!", "createdAt": "2025-06-22T14:00:00Z" },
+
+  { "id": "rev_029", "salonId": "sal_008", "userId": "usr_001", "userName": "Nandita Sharma", "rating": 5, "comment": "Keratin treatment transformed my frizzy hair completely! Sunitha madam is an expert. Worth every rupee!", "createdAt": "2025-07-07T10:00:00Z" },
+  { "id": "rev_030", "salonId": "sal_008", "userId": "usr_002", "userName": "Divya Krishnan", "rating": 4, "comment": "Reception makeup was beautiful. Geeta madam has great taste and skill. The look lasted all night without touch-ups.", "createdAt": "2025-07-01T09:30:00Z" },
+  { "id": "rev_031", "salonId": "sal_008", "userId": "usr_003", "userName": "Pooja Verma", "rating": 5, "comment": "Creative cut looks amazing! The stylist really understood what I wanted even from my vague description. Highly recommend!", "createdAt": "2025-06-25T16:00:00Z" },
+
+  { "id": "rev_032", "salonId": "sal_009", "userId": "usr_001", "userName": "Subramaniam T", "rating": 4, "comment": "Good traditional barbershop. Clean and hygienic. Ravi sir does an excellent hot towel shave. Good value for money.", "createdAt": "2025-07-03T09:00:00Z" },
+  { "id": "rev_033", "salonId": "sal_009", "userId": "usr_002", "userName": "Venkat Raju", "rating": 4, "comment": "Comfortable neighborhood barbershop. The head massage is very good. Kids haircut was done well and quickly.", "createdAt": "2025-06-27T11:30:00Z" },
+  { "id": "rev_034", "salonId": "sal_009", "userId": "usr_003", "userName": "Ganesh Murthy", "rating": 5, "comment": "The classic Indian head massage here is authentic and wonderful. I come every week just for the head massage. Amazing!", "createdAt": "2025-06-21T10:00:00Z" },
+
+  { "id": "rev_035", "salonId": "sal_010", "userId": "usr_001", "userName": "Shradha Kapoor", "rating": 5, "comment": "Smitha's balayage work is the best I've seen. She blended the colors so naturally. Getting compliments everywhere!", "createdAt": "2025-07-06T14:00:00Z" },
+  { "id": "rev_036", "salonId": "sal_010", "userId": "usr_002", "userName": "Nisha Pillai", "rating": 5, "comment": "Oxygen facial gave my skin an instant glow. The spa pedicure was heavenly. This salon is my happy place!", "createdAt": "2025-06-30T16:00:00Z" },
+  { "id": "rev_037", "salonId": "sal_010", "userId": "usr_003", "userName": "Gayathri Nair", "rating": 4, "comment": "Swedish massage was deeply relaxing. The therapist focused on my problem areas. Will definitely come back.", "createdAt": "2025-06-24T12:00:00Z" },
+
+  { "id": "rev_038", "salonId": "sal_011", "userId": "usr_001", "userName": "Chetan Kumar", "rating": 4, "comment": "Good haircut and beard grooming service. Vinay is skilled and gives good suggestions. Clean salon.", "createdAt": "2025-07-04T10:30:00Z" },
+  { "id": "rev_039", "salonId": "sal_011", "userId": "usr_002", "userName": "Sindhu Rao", "rating": 4, "comment": "Hair smoothening came out great! Very happy with the result. The brightening facial also worked well.", "createdAt": "2025-06-28T15:00:00Z" },
+
+  { "id": "rev_040", "salonId": "sal_012", "userId": "usr_001", "userName": "Ramu Nayak", "rating": 4, "comment": "Budget-friendly salon with decent service. Haircut is clean and neat. Head massage is the best part. Will come regularly.", "createdAt": "2025-07-02T09:00:00Z" },
+  { "id": "rev_041", "salonId": "sal_012", "userId": "usr_002", "userName": "Shiva Kumar", "rating": 3, "comment": "Okay experience. Basic haircut and shave done well. Nothing fancy but good for the price.", "createdAt": "2025-06-26T11:00:00Z" },
+
+  { "id": "rev_042", "salonId": "sal_013", "userId": "usr_001", "userName": "Anjali Reddy", "rating": 5, "comment": "My bridal package at Glamour Studio was absolutely perfect. Meena madam's saree draping is an art form. I was the most beautiful bride!", "createdAt": "2025-07-08T08:00:00Z" },
+  { "id": "rev_043", "salonId": "sal_013", "userId": "usr_002", "userName": "Bhagya Lakshmi", "rating": 5, "comment": "The acrylic nails are so beautiful and long-lasting. Jyothi madam's nail art is very creative and professional.", "createdAt": "2025-07-02T14:00:00Z" },
+
+  { "id": "rev_044", "salonId": "sal_014", "userId": "usr_001", "userName": "Prashanth M", "rating": 4, "comment": "Good men's salon. Sunil gives a clean haircut every time. The facial was also effective. Nice experience overall.", "createdAt": "2025-07-05T10:00:00Z" },
+
+  { "id": "rev_045", "salonId": "sal_015", "userId": "usr_001", "userName": "Kavitha Pillai", "rating": 5, "comment": "Thai massage at Tranquil Spa is a must-try! Chandrika is very skilled in traditional techniques. Totally transformed my back pain.", "createdAt": "2025-07-07T11:00:00Z" },
+  { "id": "rev_046", "salonId": "sal_015", "userId": "usr_002", "userName": "Sudha Rani", "rating": 5, "comment": "Hydrafacial was incredible. My skin looks 5 years younger. Padma is so knowledgeable about skin care. Worth every rupee!", "createdAt": "2025-07-01T13:00:00Z" },
+
+  { "id": "rev_047", "salonId": "sal_016", "userId": "usr_001", "userName": "Ajay Kumar", "rating": 4, "comment": "Bharat's undercut is very stylish. The barber knows current trends well. Good men's grooming spot.", "createdAt": "2025-07-04T09:30:00Z" },
+
+  { "id": "rev_048", "salonId": "sal_017", "userId": "usr_001", "userName": "Swetha Reddy", "rating": 5, "comment": "Rebonding by Vijaya madam is absolutely perfect. Hair is silky and straight even after multiple washes. Highly recommend!", "createdAt": "2025-07-06T12:00:00Z" },
+
+  { "id": "rev_049", "salonId": "sal_019", "userId": "usr_001", "userName": "Nikhil Sharma", "rating": 5, "comment": "This is the most premium salon experience I've had. Madhuri's creative color work is absolutely stunning. Worth the price!", "createdAt": "2025-07-08T10:00:00Z" },
+
+  { "id": "rev_050", "salonId": "sal_020", "userId": "usr_001", "userName": "Rajesh Naidu", "rating": 4, "comment": "Good neighborhood salon. Clean and comfortable. Foot massage is very relaxing after a long day. Will come back.", "createdAt": "2025-07-03T16:00:00Z" }
+]

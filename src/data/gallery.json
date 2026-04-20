@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gal_001",
+    "salonId": "sal_001",
+    "imageUrl": "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?w=800&q=80",
+    "caption": "Classic fade with modern styling.",
+    "date": "2024-05-12"
+  },
+  {
+    "id": "gal_002",
+    "salonId": "sal_001",
+    "imageUrl": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800&q=80",
+    "caption": "Bridal makeup trial session.",
+    "date": "2024-04-28"
+  },
+  {
+    "id": "gal_003",
+    "salonId": "sal_001",
+    "imageUrl": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=800&q=80",
+    "caption": "Refreshingly clean natural facial.",
+    "date": "2024-03-15"
+  },
+  {
+    "id": "gal_004",
+    "salonId": "sal_002",
+    "imageUrl": "https://images.unsplash.com/photo-1562322140-8baeececf3df?w=800&q=80",
+    "caption": "Perfect hair coloring for the summer.",
+    "date": "2024-06-01"
+  },
+  {
+    "id": "gal_005",
+    "salonId": "sal_002",
+    "imageUrl": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=800&q=80",
+    "caption": "Deep tissue massage setup.",
+    "date": "2024-05-20"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "usr_001",
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@example.com",
+    "phone": "9876543210",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "city": "Mumbai",
+    "createdAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "usr_002",
+    "name": "Priya Reddy",
+    "email": "priya.reddy@example.com",
+    "phone": "9845678901",
+    "avatar": "https://i.pravatar.cc/150?img=2",
+    "city": "Mumbai",
+    "createdAt": "2024-02-20T11:00:00Z"
+  },
+  {
+    "id": "usr_003",
+    "name": "Suresh Kumar",
+    "email": "suresh.kumar@example.com",
+    "phone": "9741234567",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "city": "Mumbai",
+    "createdAt": "2024-03-10T09:00:00Z"
+  },
+  {
+    "id": "usr_004",
+    "name": "Anitha Gowda",
+    "email": "anitha.gowda@example.com",
+    "phone": "9632587410",
+    "avatar": "https://i.pravatar.cc/150?img=4",
+    "city": "Mumbai",
+    "createdAt": "2024-04-05T14:00:00Z"
+  },
+  {
+    "id": "usr_005",
+    "name": "Vikram Patil",
+    "email": "vikram.patil@example.com",
+    "phone": "9512346789",
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "city": "Mumbai",
+    "createdAt": "2024-05-12T08:00:00Z"
+  }
+]

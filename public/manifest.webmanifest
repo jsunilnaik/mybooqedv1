@@ -1,0 +1,22 @@
+{
+  "name": "MyBOOQED | Best Salons in India",
+  "short_name": "MyBOOQED",
+  "description": "Discover and book the best salons & spas near you.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1A1A1A",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+       "src": "/favicon.png",
+       "sizes": "192x192 512x512",
+       "type": "image/png"
+    }
+  ]
+}
